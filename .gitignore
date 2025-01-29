@@ -1,0 +1,39 @@
+# Diretórios e arquivos gerados pela compilação do Cargo
+/target/
+**/*.rs.bk
+
+# Configurações do Cargo
+**/Cargo.lock
+
+# Logs e debug
+**/*.log
+debug.log
+
+# Arquivos temporários do sistema operacional
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Configurações de IDEs/editors (opcional, remova se for usar)
+.vscode/
+.idea/
+*.iml
+
+# Arquivos gerados por test coverage ou debugging
+coverage/
+*.profraw
+
+# Binários ou executáveis locais
+*.exe
+*.out
+*.o
+*.so
+*.dylib
+*.dll
+
+# Rust/Cargo workspace
+**/pkg/
+
+# Temporários do editor
+*.tmp
