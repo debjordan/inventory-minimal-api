@@ -1,0 +1,1 @@
+# Demonstrativo simples de uma api mínima, somente com duas operações de leitura e escrita. 
